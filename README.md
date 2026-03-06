@@ -15,8 +15,8 @@ Um bot do Discord para gerenciar ligas e jogos competitivos.
 
 1. Clone o repositório:
    ```
-   git clone https://github.com/seu-usuario/liga-bot.git
-   cd liga-bot
+   git clone https://github.com/lucas-git-dev/discord-inhouse-bot.git
+   cd bot
    ```
 
 2. Crie um ambiente virtual:
@@ -50,7 +50,3 @@ O bot usa PostgreSQL. Configure as variáveis `POSTGRES_*` no `.env`.
 ## Contribuição
 
 Contribuições são bem-vindas! Abra uma issue ou pull request.
-
-## Licença
-
-Este projeto está licenciado sob a MIT License - veja o arquivo [LICENSE](LICENSE) para detalhes.
