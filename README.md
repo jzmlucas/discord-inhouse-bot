@@ -1,6 +1,6 @@
-# Liga Bot
+# InHouse Queue BOT
 
-Um bot do Discord para gerenciar ligas e jogos competitivos.
+Um bot do Discord para gerenciar ligas e jogos competitivos 5x5.
 
 ## Funcionalidades
 
